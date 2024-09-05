@@ -1,5 +1,5 @@
 
-FROM python:3.9.7-slim-buster
+FROM latest
 
 
 WORKDIR .
